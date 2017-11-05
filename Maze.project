@@ -95,5 +95,6 @@
   <VirtualDirectory Name="src">
     <File Name="main.cpp"/>
     <File Name="mazemapper.h"/>
+    <File Name="mazemapper.cpp"/>
   </VirtualDirectory>
 </CodeLite_Project>

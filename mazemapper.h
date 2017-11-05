@@ -83,7 +83,7 @@ class Mazemapper
 		{
 			public:
 				// Grid location of the vertex
-				int r; 
+				int r;
 				int c;
 				// List of neighboring vertices
 				vector<Vertex*> neighs;

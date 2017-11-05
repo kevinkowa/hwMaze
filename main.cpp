@@ -653,9 +653,9 @@ void test_perf()
 int main()
 {
 	test_width_height_valid(); // Deadline 1
-	test_solvable();           // Deadline 2
-	test_solution();           // Deadline 3
-	test_perf();               // Deadline 4
+	//test_solvable();           // Deadline 2
+	//test_solution();           // Deadline 3
+	//test_perf();               // Deadline 4
 
 	cout << "Assignment complete." << endl;
 }
